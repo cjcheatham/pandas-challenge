@@ -1,0 +1,5 @@
+There are two conclusions that can be derived from the analysis of this data on schools. Theses are as follows:
+
+1) The top 5 highest perfoming schools based on the overall passing percentage were all charter schools, while district schools were in the top 5 bottom performing schools.
+
+2) Schools with a lower spending range per student, as well as a smaller school size, yielded the highest overall passing percentage.
